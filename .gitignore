@@ -16,3 +16,4 @@ __pycache__/
 
 # Requirements.txt zostawiamy, aby inni mogli odtworzyć środowisko
 # requirements.txt
+materialy/ksiazki/
